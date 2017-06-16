@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.b95fbb63.css",
-  "main.css.map": "static/css/main.b95fbb63.css.map",
-  "main.js": "static/js/main.6a49c78d.js",
-  "main.js.map": "static/js/main.6a49c78d.js.map",
+  "main.css": "static/css/main.ee87c9aa.css",
+  "main.css.map": "static/css/main.ee87c9aa.css.map",
+  "main.js": "static/js/main.c66a2ebc.js",
+  "main.js.map": "static/js/main.c66a2ebc.js.map",
   "static/media/1.png": "static/media/1.8d7e0ea0.png",
   "static/media/10.png": "static/media/10.077c19b8.png",
   "static/media/11.png": "static/media/11.487773e0.png",
@@ -32,6 +32,7 @@
   "static/media/icons.woff2": "static/media/icons.af7ae505.woff2",
   "static/media/intro.jpg": "static/media/intro.1fa76af8.jpg",
   "static/media/logo.png": "static/media/logo.d1b932a0.png",
+  "static/media/map.png": "static/media/map.e94b2d42.png",
   "static/media/mir-logo.png": "static/media/mir-logo.45eabb2d.png",
   "static/media/visa-logo.png": "static/media/visa-logo.54e30edf.png",
   "static/media/xstand.jpeg": "static/media/xstand.c847efe4.jpeg"
